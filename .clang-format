@@ -1,0 +1,21 @@
+﻿---
+BasedOnStyle: Chromium
+IndentWidth: '4'
+AlignAfterOpenBracket: BlockIndent
+AlignEscapedNewlines: Left
+AllowAllArgumentsOnNextLine: false
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowShortBlocksOnASingleLine: true
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AllowShortLambdasOnASingleLine: All
+AllowShortLoopsOnASingleLine: true
+AlwaysBreakTemplateDeclarations: 'Yes'
+BinPackArguments: false
+BinPackParameters: false
+BreakBeforeBraces: Attach
+ColumnLimit: '120'
+SortIncludes: true
+SortUsingDeclarations: true
+Standard: Cpp11
+UseTab: Never
